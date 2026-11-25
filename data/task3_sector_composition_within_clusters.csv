@@ -1,0 +1,43 @@
+Group,Sector,Shares,Pct_Of_Cluster
+Ward higher-return/beta,Information Technology,29,31.521739130434785
+Ward higher-return/beta,Industrials,21,22.82608695652174
+Ward higher-return/beta,Financials,13,14.130434782608695
+Ward higher-return/beta,Consumer Discretionary,11,11.956521739130435
+Ward higher-return/beta,Communication Services,5,5.434782608695652
+Ward higher-return/beta,Energy,4,4.3478260869565215
+Ward higher-return/beta,Materials,3,3.260869565217391
+Ward higher-return/beta,Real Estate,3,3.260869565217391
+Ward higher-return/beta,Health Care,2,2.1739130434782608
+Ward higher-return/beta,Utilities,1,1.0869565217391304
+Ward recent/higher-value RFM,Information Technology,28,19.858156028368796
+Ward recent/higher-value RFM,Health Care,21,14.893617021276595
+Ward recent/higher-value RFM,Financials,21,14.893617021276595
+Ward recent/higher-value RFM,Industrials,19,13.47517730496454
+Ward recent/higher-value RFM,Consumer Discretionary,17,12.056737588652481
+Ward recent/higher-value RFM,Energy,10,7.092198581560284
+Ward recent/higher-value RFM,Consumer Staples,10,7.092198581560284
+Ward recent/higher-value RFM,Communication Services,9,6.382978723404255
+Ward recent/higher-value RFM,Real Estate,3,2.127659574468085
+Ward recent/higher-value RFM,Materials,2,1.4184397163120568
+Ward recent/higher-value RFM,Utilities,1,0.7092198581560284
+K-Means higher-return/beta,Information Technology,48,33.56643356643357
+K-Means higher-return/beta,Industrials,29,20.27972027972028
+K-Means higher-return/beta,Consumer Discretionary,23,16.083916083916083
+K-Means higher-return/beta,Financials,17,11.888111888111888
+K-Means higher-return/beta,Energy,9,6.293706293706294
+K-Means higher-return/beta,Communication Services,5,3.4965034965034967
+K-Means higher-return/beta,Materials,4,2.797202797202797
+K-Means higher-return/beta,Real Estate,3,2.097902097902098
+K-Means higher-return/beta,Health Care,2,1.3986013986013985
+K-Means higher-return/beta,Utilities,2,1.3986013986013985
+K-Means higher-return/beta,Consumer Staples,1,0.6993006993006993
+K-Means less-recent RFM,Information Technology,25,24.509803921568626
+K-Means less-recent RFM,Financials,13,12.745098039215685
+K-Means less-recent RFM,Consumer Discretionary,13,12.745098039215685
+K-Means less-recent RFM,Industrials,11,10.784313725490197
+K-Means less-recent RFM,Utilities,9,8.823529411764707
+K-Means less-recent RFM,Health Care,9,8.823529411764707
+K-Means less-recent RFM,Materials,8,7.8431372549019605
+K-Means less-recent RFM,Consumer Staples,8,7.8431372549019605
+K-Means less-recent RFM,Energy,3,2.941176470588235
+K-Means less-recent RFM,Communication Services,3,2.941176470588235
